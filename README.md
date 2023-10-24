@@ -2,36 +2,15 @@
   <img src="https://graph.org/file/1d24af20a3f16919a2dda.jpg" alt="The-HellBot">
 </p>
 <h1 align="center">
-  <b> jmthon userbot | سورس جمثون</b>
+  <b> jmthon userbot | سورس كايثون</b>
 </h1>
 
 <h3 align="center">
   <b>سورس يوزربوت معتمد على مكتبة التيليثون</b>
 </h3>
 
-------
-##  شرح التنصيب 📺
-- عبر منصة هيروكو  [اضغط هنا](https://youtu.be/htUEv4Tlhk0)
-- تنصيب محليا  [اضغط هنا](https://youtu.be/htUEv4Tlhk0)
-- عبر منصة كويب  [اضغط هنا](https://youtu.be/Mtt0_qaOBv4)
-------
+-----
 
-### التنصيب على كويب
-
-اسهل طريقة للتنصيب عبر الضغط على الزر في الاسفل
-
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/thejmthon/jmub0&branch=koyeb&name=jmthon-userbot&run_command=python3%20-m%20jmub&env%5BTG_BOT_TOKEN%5D=&env%5BAPP_ID%5D=&env%5BAPI_HASH%5D=&env%5BSTRING_SESSION%5D=&env%5BDATABASE_URL%5D=&env%5BENV%5D=ANYTHING&env%5BPM_LOGGER_GROUP_ID%5D=)
-
-------
-
-## التنصيب على هيروكو 
-* ملاحظة: هيروكو ستصبح مدفوعة في تاريخ 28/11/2022
-- احصل على فارات تنصيبك اولا واستخرجهم
-- احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
-- اصنع حساب على منصه هيروكو [اضغط هنا](dashboard.heroku.com)
-- الان اضغط على الزر بالاسفل للتنصيب
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/thejmthon/jmthon))
 
 ------
 
@@ -144,6 +123,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 [Catuserbot](https://github.com/TgCatUB/catuserbot)
-- 💖 [Team jmthon](https://t.me/jmthon)
+- 💖 [Team jmthon](https://t.me/Caithon)
 
 ------
