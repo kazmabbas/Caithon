@@ -82,9 +82,10 @@ async def jmthonalive(StartTime):
         dyno = f"{AppHours}h {AppMinutes}m/{hours}h {minutes}m"
     except Exception as e:
         dyno = e
-    return f"🖤༄ سورس جمثون ༄🖤\
+    return f"🖤༄ سورس كايثون ༄🖤\
                  \n\nღ ثاعدة البيانات : {check_sgnirts}\
                   \nღ المطور الثانوي : {sudo}\
                   \nღ الوقت : {uptime}\
                   \nღ الدينو : {dyno}\
+                  \nღ المطور سورس 💞: @EEc5e \
                   "
